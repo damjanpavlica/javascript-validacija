@@ -1,0 +1,13 @@
+body {
+  background: #ededed;
+}
+label {
+  display: block;
+  padding: 4px 0;
+}
+.valid {
+  border: 2px solid green;
+}
+.invalid {
+  border: 2px solid red;
+}
